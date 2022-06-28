@@ -1,0 +1,29 @@
+{
+  "name": "vuepress2-plugin-baidu-autopush",
+  "version": "1.0.1",
+  "type": "module",
+  "description": "vuepress2自动提交到百度的插件",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuangyx-cn/vuepress2-plugin-baidu-autopush.git"
+  },
+  "keywords": [
+    "vuepress",
+    "baidu-autopush",
+    "SEO",
+    "自动提交百度"
+  ],
+  "author": "tomiaa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kuangyx-cn/vuepress2-plugin-baidu-autopush/issues"
+  },
+  "homepage": "https://github.com/kuangyx-cn/vuepress2-plugin-baidu-autopush#readme",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.48"
+  }
+}
